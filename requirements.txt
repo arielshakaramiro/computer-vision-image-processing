@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pillow
+opencv-python
+python-multipart
+httpx
+numpy
+matplotlib
+nest-asyncio
+pyngrok
